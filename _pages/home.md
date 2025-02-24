@@ -7,18 +7,14 @@ permalink: /
 
 ### Welcome!
 
-Theoretical physics is a branch of physics that focuses on the development of mathematical models and theories to understand and explain natural phenomena.
-It plays a crucial role in our understanding of the fundamental laws of the universe and the fundamental particles that make up all matter.
-Research in theoretical physics helps us to make predictions about how the universe works and to test these predictions through experiments.
-It also helps us to understand the fundamental principles that govern the behavior of matter and energy, and to explore the limits of our current knowledge.
-Theoretical physics helps us to make progress in a wide range of fields, including cosmology, particle physics, and quantum mechanics, and it has led to many important discoveries and technological innovations.
+Welcome/Willkommen/Dobrodošli/どうぞよろしく/Hoş geldiniz! I'm a PhD student in General Linguistics at the Institute of Linguistics (Heinrich-Heine University Düsseldorf). My areas of research are Phonetics, Phonology and Psycholinguistics, though I have recently grown interest in Morphology and Computational linguistics as well.
 
 <div class="container">
 <div class="row">
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/banner.jpg" width="100%"/><br/>
-Examples of Feynman diagrams. <br/>
-Feynman R., The theory of positrons. <i>Phys. Rev.</i> (1949)
+<img src="{{ site.url }}{{ site.baseurl }}/images/ermuj.png" width="100%"/><br/>
+Spectrogram of my name [êrdin mujezǐːnovit͡ɕ] (Serbo-Croatian pronunciation). <br/>
+Can you match the segments to the respective portions?
 </center>
 </div>
 </div>
@@ -26,7 +22,6 @@ Feynman R., The theory of positrons. <i>Phys. Rev.</i> (1949)
 
 ### About me
 
-I am a physicist working in the field of quantum mechanics and quantum electrodynamics.
-I received my undergraduate degree in physics from the Massachusetts Institute of Technology (MIT) in 1939 and went on to earn my PhD from Princeton University in 1942.
-After completing my doctoral studies, I worked on the Manhattan Project, where I helped develop the first atomic bombs.
-After the war, I returned to academia, holding teaching and research positions at Cornell and now at the California Institute of Technology.
+I investigate the learning mechanisms behind phonetic, phonological and morphophonological learning, and how these mechanisms allow linguistic structure to emerge. I approach language from a discriminative error-driven learning perspective. For my PhD-project, I investigate the learning mechanisms behind phonetic category acquisition (phonetics), sound pattern acquisition (phonology) and form-meaning associations (morphophonology). To answer these questions, I use computational and experimental methods.
+
+By investigating the mechanisms behind language learning, I hope to to better understand why certain linguistic properties appear to be harder to learn than others, as well as to find out what kinds of representations emerge during learning – and whether these representations differ in kind or in degree.
