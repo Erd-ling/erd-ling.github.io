@@ -1,17 +1,17 @@
-- name: Dr. Richard Feynman
+- name: Erdin Mujezinović
   photo: headshot.jpg
-  info: Richard C. Tolman Professor, California Institute of Technology
-  email: richard@university.edu
-  github: https://github.com/
-  researchgate: https://www.researchgate.net/
-  scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
+  info: PhD Student, Heinrich-Heine University Düsseldorf
+  email: erdin.mujezinovic@hhu.de
+  github: https://github.com/erd-ling
+  researchgate: https://www.researchgate.net/profile/Erdin-Mujezinovic
+  scholar: https://scholar.google.com/citations?hl=en&user=3q1265MAAAAJ
   cv: cv/cv.pdf
   # Change the items in "education" you have (up to 6)
   education:
     [
-      "(1942) Ph.D. Physics, Princeton University",
-      "(1939) B.S. Physics, Massachusetts Institute of Technology",
+      "(2021) M.A. Linguistics, Heinrich Heine University Düsseldorf",
+      "(2019) B.A. Linguistics, Heinrich-Heine University Düsseldorf",
     ]
 
   educationshort:
-    ["(1942) Ph.D. Physics, Princeton", "(1939) B.S. Physics, MIT"]
+    ["(2021) M.A. Linguistics, HHU Düsseldorf", "(2019) M.A. Linguistics, HHU Düsseldorf"]

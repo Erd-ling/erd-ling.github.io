@@ -13,12 +13,13 @@ url: "https://erd-ling.github.io"
 # Footer info
 affiliation: >
   Erdin Mujezinović<br/>
-  PhD in General Linguistics<br/>
+  PhD student in General Linguistics<br/>
   Heinrich-Heine University Düsseldorf
 
 location: >
   Heinrich-Heine University<br/>
   Institute for Linguistics<br/>
+  Linguistics I: <br\>
   Phonetics and Phonology<br/>
   Universitätsstraße 1<br/>
   40225 Düsseldorf
@@ -34,7 +35,7 @@ nav_pages:
   - name: talks
   - name: research
   - name: software
-  - name: team
+#  - name: team
   - name: teaching
   - name: blogs
 

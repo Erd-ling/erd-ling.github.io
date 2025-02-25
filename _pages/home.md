@@ -7,14 +7,13 @@ permalink: /
 
 ### Welcome!
 
-Welcome/Willkommen/Dobrodošli/どうぞよろしく/Hoş geldiniz! I'm a PhD student in General Linguistics at the Institute of Linguistics (Heinrich-Heine University Düsseldorf). My research areas are Phonetics, Phonology and Psycholinguistics. I recently became interested in Morphology and Computational linguistics as well.
-
+Welcome/Willkommen/Dobrodošli/どうぞよろしく/Hoş geldiniz! I am a PhD student in General Linguistics at the Institute of Linguistics (Heinrich-Heine University Düsseldorf). My areas of interest are Phonetics, Phonology and Psycholinguistics, with a recent interest in Morphology and Computational Linguistics.
 <div class="container">
 <div class="row">
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/banner.png" width="100%"/><br/>
-Spectrogram of my name [êrdin mujezǐːnovit͡ɕ]. <br/>
-Can you match each segment to the spectrogram signal?
+<img src="{{ site.url }}{{ site.baseurl }}/images/banner.png" width="90%"/><br/>
+This is a spectrogram of my name [êrdin mujezǐːnovit͡ɕ]. <br/>
+Can you match all segments to the spectrogram signal?
 </center>
 </div>
 </div>
