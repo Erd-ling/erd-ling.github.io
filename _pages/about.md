@@ -65,14 +65,19 @@ permalink: /about/
   <ul>
     {% for student in site.data.people %}
       <li>{{ student.name }}, {{ student.location }} ({{ student.degree }}, {{ student.year }})</li>
+      <ul>
+        <li>{{ student.thesis }}</li>
+      </ul>
     {% endfor %}
   </ul>
 </div>
 {% endif %}
 
+<!--
 <div class="jumbotron">
   <h4>Sponsors</h4>
   <div style='display:block; text-align:center; margin-left:auto; margin-right:auto;'>
   {% for funder in site.data.funders %}<a href="{{ funder.url }}" target="_blank"><img src='{{ site.url }}{{ site.baseurl }}/images/{{ funder.image }}' style='max-height: 80px; max-width: 200px; margin: 1%'/></a>{% endfor %}
   </div>
 </div>
+-->

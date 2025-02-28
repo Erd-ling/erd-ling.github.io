@@ -1,5 +1,5 @@
 - name: Erdin Mujezinović
-  photo: headshot.jpg
+  photo: headshot.jpeg
   info: PhD Student, Heinrich-Heine University Düsseldorf
   email: erdin.mujezinovic@hhu.de
   github: https://github.com/erd-ling
@@ -14,4 +14,4 @@
     ]
 
   educationshort:
-    ["(2021) M.A. Linguistics, HHU Düsseldorf", "(2019) M.A. Linguistics, HHU Düsseldorf"]
+    ["(2021) M.A. Linguistics, HHU Düsseldorf", "(2019) B.A. Linguistics, HHU Düsseldorf"]

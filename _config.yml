@@ -15,12 +15,11 @@ affiliation: >
   Erdin Mujezinović<br/>
   PhD student in General Linguistics<br/>
   Heinrich-Heine University Düsseldorf
+  Institute for Linguistics<br/>
 
 location: >
-  Heinrich-Heine University<br/>
-  Institute for Linguistics<br/>
-  Linguistics I: <br\>
-  Phonetics and Phonology<br/>
+  Linguistics I: Phonetics and Phonology<br/>
+  Office: 23.21.04.053<br/>
   Universitätsstraße 1<br/>
   40225 Düsseldorf
 
@@ -37,7 +36,7 @@ nav_pages:
   - name: software
 #  - name: team
   - name: teaching
-  - name: blogs
+  - name: experiments
 
 include:
   - .htaccess
