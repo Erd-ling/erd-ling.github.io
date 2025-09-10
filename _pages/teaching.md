@@ -10,7 +10,11 @@ permalink: /teaching/
 <div class="jumbotron">
 <h3>Classes taught as Research Associate</h3>
 
-* Applied Phonology: Evaluating Voice Assistants (Bachelor seminar)<br/>[Summer 2025 (planned)](https://lsf.hhu.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=263872&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)<br/> 
+* Phonetic Drift in Learning (Bachelor seminar)<br/> 
+[Winter 2025/26](https://lsf.hhu.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=269077&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)<br/>
+
+
+* Applied Phonology: Evaluating Voice Assistants (Bachelor seminar)<br/>[Summer 2025](https://lsf.hhu.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=263872&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)<br/> 
 Together with Akhilesh Kakolu Ramarao.<br/> 
 
 * Hands on Kinyarwanda! - Investigating the Phonology, Morphosyntax and Typology of Bantu languages (Bachelor seminar) [Winter 2024/25](https://lsf.hhu.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=258736&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)<br/> 
