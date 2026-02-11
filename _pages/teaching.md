@@ -46,16 +46,16 @@ Together with Akhilesh Kakolu Ramarao.<br/>
 <h3>Classes taught as Student Assistant</h3>
 
 * Introduction to Phonology (Tutorial)<br/> 
-[[Summer 2021]](https://lsf.hhu.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=200392&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) &#124; [Summer 2020](https://lsf.hhu.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=188057&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)<br/>
+[[Summer 2021]](https://lsf.hhu.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=200392&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) &#124; [[Summer 2020]](https://lsf.hhu.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=188057&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)<br/>
 Supervised by Prof. Dr. Ruben van de Vijver. <br/>
 
 * Introduction to Phonetics (Tutorial)<br/> 
-[[Winter 2020/21]](https://lsf.hhu.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=194864&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) &#124; [Winter 2019/20](https://lsf.hhu.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=183454&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)<br/> 
+[[Winter 2020/21]](https://lsf.hhu.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=194864&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) &#124; [[Winter 2019/20]](https://lsf.hhu.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=183454&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)<br/> 
 Supervised by Prof. Dr. Ruben van de Vijver. <br/>
 
 
 * Methods in Phonetics and Phonology (Tutorial)<br/> 
-[[Summer 2018]](https://lsf.hhu.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=165497&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) &#124; [Summer 2017](https://lsf.hhu.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=153487&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)<br/>
+[[Summer 2018]](https://lsf.hhu.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=165497&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) &#124; [[Summer 2017]](https://lsf.hhu.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=153487&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)<br/>
 Supervised by Dr. Dinah Baer-Henney. <br/>
 </div>
 
@@ -67,6 +67,6 @@ Supervised by Dr. Dinah Baer-Henney. <br/>
 Taught by Dr. Dinah Baer-Henney. <br/>
 
 * Practical Phonetics and Phonology<br/> 
-[[Summer 2019](https://lsf.hhu.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=177703&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)<br/>
+[[Summer 2019]](https://lsf.hhu.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=177703&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)<br/>
 Taught by Dr. Kim Strütjen. <br/>
 </div>
