@@ -10,6 +10,9 @@ permalink: /teaching/
 <div class="jumbotron">
 <h3>Classes taught as Research Associate</h3>
 
+* Sociophonetic Studies (Bachelor seminar & Exercise)<br/>
+[[Summer 2026]](https://lsf.hhu.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=277166&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)<br/>
+
 * Phonetic Drift in Learning (Bachelor seminar)<br/> 
 [[Winter 2025/26]](https://lsf.hhu.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=269077&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)<br/>
 
