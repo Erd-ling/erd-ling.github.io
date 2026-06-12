@@ -10,6 +10,10 @@ permalink: /teaching/
 <div class="jumbotron">
 <h3>Classes taught as Research Associate</h3>
 
+* Language and Writing Systems (Bachelor seminar & Exercise)<br/>
+[[planned for Winter 2026/27]](https://lsf.hhu.de)<br/>
+Together with Aylin Bülbül.<br/> 
+
 * Sociophonetic Studies (Bachelor seminar & Exercise)<br/>
 [[Summer 2026]](https://lsf.hhu.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=277166&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)<br/>
 

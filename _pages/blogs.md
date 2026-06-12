@@ -26,7 +26,7 @@ permalink: /experiments/
 <div class="container">
 <div class="row">
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/flyer00.png" width="80%"/><br/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/experiment.png" width="80%"/><br/>
 </center>
 </div>
 </div>
